@@ -1,2 +1,2 @@
 # NightyTest
-Test Github to play around witj
+Test Github to play around with
